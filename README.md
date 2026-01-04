@@ -1,4 +1,3 @@
-# 3.0 Database Architecture & Customer Enablement – NielsenIQ  
 **Data Modeling, Governance & Business-to-Technical Translation**
 
 ---
