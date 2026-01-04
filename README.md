@@ -135,7 +135,7 @@ I received a **NielsenIQ award** for contributions to customer onboarding excell
 
 ## How This Repository Fits in the Bigger Journey
 
-This repository represents **Phase 1**
+This repository represents **Phase 3**
 
 - **Phase 1:** Reporting & Analytics Foundation [`Nielseniq-reporting-analytics-foundation`](https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/){:target="_blank"}
 - **Phase 2:** BI Transformation & Data Lake Migration [`Nielseniq-bi-transformation-discover`](https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/){:target="_blank"}
